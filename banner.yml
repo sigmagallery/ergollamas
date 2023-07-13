@@ -1,10 +1,17 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
-backgroundImage: https://ipfs.io/ipfs/
+title: ErgoLlamas
+description: ErgoLlamas is a pixel art (64px x 64px) interpretation of some chill (some more chill than other) llamas. The whole spirit behind Llamas is to leave the drama behind us and build a better future of finance. Together.
+image: https://ipfs.io/ipfs/bafkreicynhrgjkfrfc2atthho6amh3imhgtau2drmwht2guyairphcvduy
+backgroundImage: https://ipfs.io/ipfs/bafkreicynhrgjkfrfc2atthho6amh3imhgtau2drmwht2guyairphcvduy
 mintAddresses:
-  - 
+  - 9i27sKZ1gdZtnkbEsL1jkbnosZh3pHi9tZiwMLmi6tcwjmRQMhz
+  - 9fKwLkBh2Aa3H73tMifsevzG9T3GHm1WVCotkbKERhQffMyzkXV
 bannerLinks:
   - label: Twitter
     url: https://twitter.com/
     icon: fa-brands fa-twitter fa-fw
+  - label: Discord
+    url: https://discord.com/invite/9eBCchJvn7
+    icon: fa-brands fa-discord fa-fw
+  - label: Website
+    url: https://benjaminlarkey.com/llamapaca.html
+    icon: fa-solid fa-globe fa-fw
